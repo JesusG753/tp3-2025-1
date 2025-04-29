@@ -12,3 +12,5 @@
    9. breast-quad: left-up, left-low, right-up,	right-low, central. (1,2,3,4,5)
   10. irradiat:	yes, no. (1,2)
 
+https://archive.ics.uci.edu/dataset/14/breast+cancer
+
